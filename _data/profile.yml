@@ -1,9 +1,8 @@
-primary_name: "Zilin Wang's Homepage"
+primary_name: "Mr.Zilin Wang"
 secondary_name: ""
-navbar_name: "Zilin Wang"
+navbar_name: "Zilin Wang's Homepage"
 
 positions:
-- name: Mr.
 - name: Mathematics
 
 
@@ -34,7 +33,7 @@ portrait_caption: >-
 
 education:
 - name: Jinan University
-  logo: /assets/images/badges/Jinan-university-logo
+  logo: /assets/images/badges/Jinan-university-logo.png
   position: >- 
     School of Information Science and Technology <br/>
     B.Sc. in Mathematics
